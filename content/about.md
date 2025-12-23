@@ -1,5 +1,5 @@
-# webadmin-quartz-demo
-a demo of the Quarts Static Site Generator potentially for the Web Admin team to explore this publication workflow.
+# About
+a demo of the Quartz Static Site Generator potentially for the Web Admin team to explore this publication workflow.
 
 ## Quartz
 
